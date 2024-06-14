@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{26EE3284-6505-4DED-8A61-54623E2BAF5A}|Scamer.Faculdade">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Scamer.Pesquisa.Conexao/ConexaoMysql.cs">
+    <Files>
+      <File FileName="Scamer.Pesquisa.Model/Avaliacoes/Avaliacao.cs" Line="2" Column="11" />
+      <File FileName="Scamer.Pesquisa/Controllers/PesquisaController.cs" />
+      <File FileName="Scamer.Pesquisa/Properties/launchSettings.json" />
+      <File FileName="Scamer.Pesquisa.Model/Pergunta/PerguntaForm.cs" Line="1" Column="1" />
+      <File FileName="Scamer.Pesquisa.Model/Pesquisa/Pesquisa.cs" />
+      <File FileName="Scamer.Pesquisa.Model/Retorno/Retorno.cs" />
+      <File FileName="Scamer.Pesquisa/WeatherForecast.cs" />
+      <File FileName="Scamer.Pesquisa.DAO/Pesquisa/PesquisaDAO.cs" Line="6" Column="40" />
+      <File FileName="Scamer.Pesquisa.Conexao/ConexaoMysql.cs" Line="30" Column="75" />
+      <File FileName="Scamer.Pesquisa/Program.cs" Line="1" Column="1" />
+      <File FileName="Scamer.Pesquisa.Model/Login/Login.cs" Line="1" Column="1" />
+      <File FileName="Scamer.Pesquisa.Model/Pergunta/PerguntaListagem.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Scamer.Pesquisa" expanded="True">
+            <Node name="Scamer.Pesquisa.Conexao">
+              <Node name="ConexaoMysql.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Scamer.Pesquisa PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../buildMultiTargeting/Pesquisa.Faculdade.props" />
+</Project>

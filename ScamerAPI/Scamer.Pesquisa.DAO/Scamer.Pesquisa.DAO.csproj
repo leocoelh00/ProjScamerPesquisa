@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Pesquisa.Faculdade.Model\Pesquisa.Faculdade.Model.csproj" />
+    <ProjectReference Include="..\Faculdade.Pesquisa.Conexao\Pesquisa.Faculdade.Conexao.csproj" />
+    <ProjectReference Include="..\Scamer.Pesquisa.Model\Scamer.Pesquisa.Model.csproj" />
+    <ProjectReference Include="..\Scamer.Pesquisa.Conexao\Scamer.Pesquisa.Conexao.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Dapper" Version="2.0.78" />
+    <PackageReference Include="MySql.Data" Version="8.0.22" />
+  </ItemGroup>
+</Project>

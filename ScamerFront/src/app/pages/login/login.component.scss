@@ -1,0 +1,137 @@
+.Posicao {
+    display: flex;
+    height: 100vh;
+    flex-flow: column;
+    justify-content: center;
+    align-items: center;
+
+    .logo  {
+        width: 7rem;
+    }
+
+    .titulo {
+        margin-top: 1.5rem;
+        font-weight: lighter;
+        font-family: var(--font);
+        font-size: 1.25rem;
+        color: #0074ffc9;
+        font-weight: 500;
+        margin-bottom: 0.25rem;
+    }
+
+    .subtitulo {
+        font-family: var(--font);
+        font-size: 2rem;
+        font-weight: bold;
+        color: #002ccb;
+
+        margin: 0rem;
+    }
+
+    .line {
+        content: "";
+        width: 30px;
+        height: 4px;
+        border-radius: 0.625rem;
+        margin-bottom: 1.5rem;
+    }
+}
+
+.input-login {
+    position: relative;
+
+    i {
+        position: absolute;
+        top: 50%;
+        left: .5rem;
+        transform: translateY(-70%);
+        transform-origin: center center;
+    }
+
+    input {
+        width: 100%;
+        background: none;
+        border: none;
+        padding: 1rem 1rem 1rem 3.5rem;
+        outline: none;
+        border-bottom: 1px #ccc solid;
+        margin-bottom: 1rem;
+        font-size: var(--font-size-normal);
+
+        &:hover,
+        &:focus {
+            border-color: var(--laranja);
+        }
+    }
+
+}
+
+.BotaoAcessar {
+    text-align: -webkit-center;
+    .Button {
+        display: block;
+        width: 100%;
+        height: 55px;
+        background-color: #047def70;
+        color: #ffffff;
+        font-size: 1.25rem;
+        border-radius: 15px;
+        border: none;
+        box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+        cursor: pointer;
+        margin-top: 1.5rem;
+
+        &:active{
+            transform: scale(75%);
+        }
+
+        &:disabled{
+            opacity: 0.6;
+            cursor: not-allowed;
+            transform: scale(100%);
+        }
+    }
+}
+
+.CardBenef{
+    width: 364px;
+    height: 101px;
+    background-color: #d9d9d975;
+    color: #3c3c3cb5;
+    font-size: 1.25rem;
+    border-radius: 10px;
+    padding-top: 2.25rem;
+    padding-left: 1rem;
+    border: 1px solid #00000010;
+    margin-bottom: 1.25rem;
+    font-weight: 600;
+}
+
+.boxSection{
+    @media screen and (min-width: 768px) {
+            margin-bottom: 3.5rem;
+    }
+}
+
+.input-login{
+    .btn-action{
+        position: absolute;
+        right: 0;
+        top: 50%;
+        transform: translateY(-70%);
+        outline:none;
+        background:none;
+        border:none;
+        cursor:pointer;
+
+        &:focus
+        &:hover{
+                cursor:pointer;
+                opacity: 0.76;
+        }
+
+        &:active{
+            transform: translateY(-70%) scale(0.92);
+        }
+    }
+}

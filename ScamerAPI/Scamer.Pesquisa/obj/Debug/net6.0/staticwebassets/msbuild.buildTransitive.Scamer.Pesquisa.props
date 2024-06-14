@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../buildMultiTargeting/Scamer.Pesquisa.props" />
+</Project>

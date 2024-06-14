@@ -1,0 +1,268 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/lcoelh00/Downloads/ScamerPesquisa/ScamerAPI/Scamer.Pesquisa/Scamer.Pesquisa.csproj": {}
+  },
+  "projects": {
+    "/Users/lcoelh00/Downloads/ScamerPesquisa/ScamerAPI/Scamer.Pesquisa.Conexao/Scamer.Pesquisa.Conexao.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/lcoelh00/Downloads/ScamerPesquisa/ScamerAPI/Scamer.Pesquisa.Conexao/Scamer.Pesquisa.Conexao.csproj",
+        "projectName": "Scamer.Pesquisa.Conexao",
+        "projectPath": "/Users/lcoelh00/Downloads/ScamerPesquisa/ScamerAPI/Scamer.Pesquisa.Conexao/Scamer.Pesquisa.Conexao.csproj",
+        "packagesPath": "/Users/lcoelh00/.nuget/packages/",
+        "outputPath": "/Users/lcoelh00/Downloads/ScamerPesquisa/ScamerAPI/Scamer.Pesquisa.Conexao/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/lcoelh00/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "MySql.Data": {
+              "target": "Package",
+              "version": "[8.0.22, )"
+            },
+            "Oracle.ManagedDataAccess.Core": {
+              "target": "Package",
+              "version": "[3.21.61, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.316/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/lcoelh00/Downloads/ScamerPesquisa/ScamerAPI/Scamer.Pesquisa.DAO/Scamer.Pesquisa.DAO.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/lcoelh00/Downloads/ScamerPesquisa/ScamerAPI/Scamer.Pesquisa.DAO/Scamer.Pesquisa.DAO.csproj",
+        "projectName": "Scamer.Pesquisa.DAO",
+        "projectPath": "/Users/lcoelh00/Downloads/ScamerPesquisa/ScamerAPI/Scamer.Pesquisa.DAO/Scamer.Pesquisa.DAO.csproj",
+        "packagesPath": "/Users/lcoelh00/.nuget/packages/",
+        "outputPath": "/Users/lcoelh00/Downloads/ScamerPesquisa/ScamerAPI/Scamer.Pesquisa.DAO/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/lcoelh00/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/lcoelh00/Downloads/ScamerPesquisa/ScamerAPI/Scamer.Pesquisa.Conexao/Scamer.Pesquisa.Conexao.csproj": {
+                "projectPath": "/Users/lcoelh00/Downloads/ScamerPesquisa/ScamerAPI/Scamer.Pesquisa.Conexao/Scamer.Pesquisa.Conexao.csproj"
+              },
+              "/Users/lcoelh00/Downloads/ScamerPesquisa/ScamerAPI/Scamer.Pesquisa.Model/Scamer.Pesquisa.Model.csproj": {
+                "projectPath": "/Users/lcoelh00/Downloads/ScamerPesquisa/ScamerAPI/Scamer.Pesquisa.Model/Scamer.Pesquisa.Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.0.78, )"
+            },
+            "MySql.Data": {
+              "target": "Package",
+              "version": "[8.0.22, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.316/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/lcoelh00/Downloads/ScamerPesquisa/ScamerAPI/Scamer.Pesquisa.Model/Scamer.Pesquisa.Model.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/lcoelh00/Downloads/ScamerPesquisa/ScamerAPI/Scamer.Pesquisa.Model/Scamer.Pesquisa.Model.csproj",
+        "projectName": "Scamer.Pesquisa.Model",
+        "projectPath": "/Users/lcoelh00/Downloads/ScamerPesquisa/ScamerAPI/Scamer.Pesquisa.Model/Scamer.Pesquisa.Model.csproj",
+        "packagesPath": "/Users/lcoelh00/.nuget/packages/",
+        "outputPath": "/Users/lcoelh00/Downloads/ScamerPesquisa/ScamerAPI/Scamer.Pesquisa.Model/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/lcoelh00/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.316/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/lcoelh00/Downloads/ScamerPesquisa/ScamerAPI/Scamer.Pesquisa/Scamer.Pesquisa.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/lcoelh00/Downloads/ScamerPesquisa/ScamerAPI/Scamer.Pesquisa/Scamer.Pesquisa.csproj",
+        "projectName": "Scamer.Pesquisa",
+        "projectPath": "/Users/lcoelh00/Downloads/ScamerPesquisa/ScamerAPI/Scamer.Pesquisa/Scamer.Pesquisa.csproj",
+        "packagesPath": "/Users/lcoelh00/.nuget/packages/",
+        "outputPath": "/Users/lcoelh00/Downloads/ScamerPesquisa/ScamerAPI/Scamer.Pesquisa/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/lcoelh00/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/sdk/7.0.316/Sdks/Microsoft.NET.Sdk.Web/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/lcoelh00/Downloads/ScamerPesquisa/ScamerAPI/Scamer.Pesquisa.DAO/Scamer.Pesquisa.DAO.csproj": {
+                "projectPath": "/Users/lcoelh00/Downloads/ScamerPesquisa/ScamerAPI/Scamer.Pesquisa.DAO/Scamer.Pesquisa.DAO.csproj"
+              },
+              "/Users/lcoelh00/Downloads/ScamerPesquisa/ScamerAPI/Scamer.Pesquisa.Model/Scamer.Pesquisa.Model.csproj": {
+                "projectPath": "/Users/lcoelh00/Downloads/ScamerPesquisa/ScamerAPI/Scamer.Pesquisa.Model/Scamer.Pesquisa.Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Authorization": {
+              "target": "Package",
+              "version": "[8.0.2, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.316/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

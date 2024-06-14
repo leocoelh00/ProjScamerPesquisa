@@ -1,0 +1,118 @@
+.header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-top: 0px;
+
+    button {
+        outline: none;
+        background: none;
+        border: none;
+        cursor: pointer;
+
+        &:hover,
+        &:focus {
+            opacity: 0.72;
+        }
+
+        &:active {
+            transform: scale(0.92);
+        }
+    }
+
+    .btn-left {
+        position: absolute;
+        left: 50px;
+        top: 50px
+    }
+
+    .logo {
+        text-align: center;
+        position: absolute;
+        left: calc(50% - 32.5px);
+        top: 24px;
+        cursor: pointer;
+
+        img {
+            width: 75px;
+            height: 35.53px;
+            max-width: 75px;
+        }
+
+        .version {
+            position: absolute;
+            left: 50%;
+            transform: translateX(-50%);
+            width: 50px;
+            z-index: 50;
+            font-size: 9px;
+            color: rgba(0, 0, 0, .25);
+
+            &.logo {
+                top: 40px;
+            }
+        }
+    }
+}
+
+.div-pendencias {
+    font-weight: bold;
+    position: absolute;
+    color: var(--laranja-scamer);
+    right: 10vw;
+    top: 8.5vh;
+    cursor: pointer;
+
+    &:active {
+        transform: scale(0.92);
+        transition-duration: 280ms;
+    }
+
+    .div-badge {
+        background: var(rosa);
+        width: 20px;
+        height: 20px;
+        color: white;
+        font-weight: bold;
+        text-align: center;
+        line-height: 20px;
+        position: absolute;
+        right: -15px;
+        top: -15px;
+        border-radius: 50%;
+        font-size: var(--font-size-smaller);
+    }
+
+    @media screen and (max-width: 1400px) {
+        top: 8.8vh;
+   }
+}
+
+
+.titulo {
+    margin-top: 1.5rem;
+    font-weight: lighter;
+    font-family: var(--font);
+    font-size: 1.25rem;
+    color: #0074ffc9;
+    font-weight: 500;
+    margin-bottom: 0.25rem;
+}
+
+.subtitulo {
+    font-family: var(--font);
+    font-size: 2rem;
+    font-weight: bold;
+    color: #002ccb;
+
+    margin: 0rem;
+}
+
+.line {
+    content: "";
+    width: 30px;
+    height: 4px;
+    background: #ED1651;
+    border-radius: 0.625rem;
+    margin-bottom: 1.5rem;
+}

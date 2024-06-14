@@ -1,0 +1,5 @@
+/Users/lcoelh00/Downloads/ScamerPesquisa/ScamerAPI/Scamer.Extensions/obj/Debug/net6.0/Scamer.Pesquisa.Extensions.csproj.AssemblyReference.cache
+/Users/lcoelh00/Downloads/ScamerPesquisa/ScamerAPI/Scamer.Extensions/obj/Debug/net6.0/Scamer.Pesquisa.Extensions.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lcoelh00/Downloads/ScamerPesquisa/ScamerAPI/Scamer.Extensions/obj/Debug/net6.0/Scamer.Pesquisa.Extensions.AssemblyInfoInputs.cache
+/Users/lcoelh00/Downloads/ScamerPesquisa/ScamerAPI/Scamer.Extensions/obj/Debug/net6.0/Scamer.Pesquisa.Extensions.AssemblyInfo.cs
+/Users/lcoelh00/Downloads/ScamerPesquisa/ScamerAPI/Scamer.Extensions/obj/Debug/net6.0/Scamer.Pesquisa.Extensions.csproj.CoreCompileInputs.cache

@@ -1,0 +1,55 @@
+
+
+.buttonConfirmar {
+    width: 337px;
+    height: 55px;
+    color: #ffffff;
+    background-color: var(--verde-escuro- );
+    font-size: 1.25rem;
+    font-weight: 400;
+    border-radius: 30px;
+    box-shadow: 0px 4px 4px var(--box-shadow);
+
+    &:active {
+        transform: scale(92%);
+    }
+
+    &:disabled {
+        opacity: 0.6;
+        cursor: not-allowed;
+    }
+}
+
+
+.posicaoDiv {
+    width: 100%;
+    text-align: -webkit-center;
+
+    .divPergunta {
+        display: flex;
+        flex-direction: column;
+        justify-content: space-evenly;
+        width: 95vw;
+        height: 109px;
+        border-radius: 5px;
+        background-color: #ffffff;
+        margin: 3rem 0rem 3rem 0rem;
+        box-shadow: 0px 4px 4px var(--box-shadow);
+
+        @media screen and (min-width: 768px) {
+            width: 870px;
+        }
+    }
+    
+    .Pergunta {
+        padding: 1rem 2rem 1rem 2rem;
+        text-align: center;
+        font-weight: 600;
+        color: #00000095;
+        font-size: 0.95rem;
+
+        @media screen and (min-width: 768px) {
+            font-size: 1.1rem;
+        }
+    }
+}

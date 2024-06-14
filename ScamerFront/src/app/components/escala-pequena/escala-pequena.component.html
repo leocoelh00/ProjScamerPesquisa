@@ -1,0 +1,10 @@
+<div class="posicionamento">
+    <div class="Satisfacao">
+        <div *ngFor="let opcoes of numeros">
+            <button (click)="Selecionar_Satisfacao(opcoes.nm)" class="{{opcoes.style}}">
+                <label class="label-satisf">{{opcoes.nm}}</label>
+            </button>
+            <p class="labelButton">{{opcoes.label}}</p>
+        </div>
+    </div>
+</div>

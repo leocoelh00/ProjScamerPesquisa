@@ -1,0 +1,56 @@
+﻿<Properties StartupConfiguration="{597055E8-B2F9-41D3-8710-418ABD623D6A}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Pesquisa.Faculdade/Controllers/PesquisaController.cs">
+    <Files>
+      <File FileName="Pesquisa.Faculdade.DAO/Pesquisa/PesquisaDAO.cs" />
+      <File FileName="Pesquisa.Faculdade/appsettings.json" />
+      <File FileName="Faculdade.Pesquisa.Conexao/Class1.cs" />
+      <File FileName="Faculdade.Pesquisa.Conexao/CSMEM.cs" />
+      <File FileName="Pesquisa.Faculdade/Controllers/PesquisaController.cs" Line="60" Column="1" />
+      <File FileName="Pesquisa.Faculdade/Properties/launchSettings.json" />
+      <File FileName="Pesquisa.Faculdade/Program.cs" />
+      <File FileName="Pesquisa.Faculdade/WeatherForecast.cs" />
+      <File FileName="Pesquisa.Faculdade.Model/Retorno/Retorno.cs" />
+      <File FileName="Faculdade.Pesquisa.Conexao/ConexaoMysql.cs" />
+      <File FileName="Pesquisa.Faculdade.Model/Pergunta/PerguntaForm.cs" />
+      <File FileName="Pesquisa.Faculdade.Model/Pesquisa/Pesquisa.cs" />
+      <File FileName="Pesquisa.Faculdade.Model/Avaliacoes/Avaliacao.cs" />
+      <File FileName="Pesquisa.Faculdade.Model/Login/Login.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Pesquisa.Faculdade" expanded="True">
+            <Node name="Pesquisa.Faculdade" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="PesquisaController.cs" selected="True" />
+              </Node>
+            </Node>
+            <Node name="Pesquisa.Faculdade.Conexao" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+            </Node>
+            <Node name="Pesquisa.Faculdade.DAO" expanded="True">
+              <Node name="Pesquisa" expanded="True" />
+            </Node>
+            <Node name="Pesquisa.Faculdade.Model" expanded="True">
+              <Node name="Avaliacoes" expanded="True" />
+              <Node name="Login" expanded="True" />
+              <Node name="Pergunta" expanded="True" />
+              <Node name="Pesquisa" expanded="True" />
+              <Node name="Retorno" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint enabled="false" file="/Users/lcoelh00/Downloads/Pesquisa.Faculdade/Pesquisa.Faculdade.DAO/Pesquisa/PesquisaDAO.cs" relfile="Pesquisa.Faculdade.DAO/Pesquisa/PesquisaDAO.cs" line="31" column="1" />
+      <Breakpoint enabled="false" file="/Users/lcoelh00/Downloads/Pesquisa.Faculdade/Pesquisa.Faculdade.DAO/Pesquisa/PesquisaDAO.cs" relfile="Pesquisa.Faculdade.DAO/Pesquisa/PesquisaDAO.cs" line="61" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Pesquisa.Faculdade PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+</Properties>

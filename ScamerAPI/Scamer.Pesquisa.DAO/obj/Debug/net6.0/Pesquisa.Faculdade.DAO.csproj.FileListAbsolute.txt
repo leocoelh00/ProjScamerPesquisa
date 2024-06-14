@@ -1,0 +1,17 @@
+/Users/lcoelh00/Downloads/Pesquisa.Faculdade/Pesquisa.Faculdade.DAO/bin/Debug/net6.0/Pesquisa.Faculdade.DAO.deps.json
+/Users/lcoelh00/Downloads/Pesquisa.Faculdade/Pesquisa.Faculdade.DAO/bin/Debug/net6.0/Pesquisa.Faculdade.DAO.dll
+/Users/lcoelh00/Downloads/Pesquisa.Faculdade/Pesquisa.Faculdade.DAO/bin/Debug/net6.0/Pesquisa.Faculdade.DAO.pdb
+/Users/lcoelh00/Downloads/Pesquisa.Faculdade/Pesquisa.Faculdade.DAO/bin/Debug/net6.0/Pesquisa.Faculdade.Conexao.dll
+/Users/lcoelh00/Downloads/Pesquisa.Faculdade/Pesquisa.Faculdade.DAO/bin/Debug/net6.0/Pesquisa.Faculdade.Model.dll
+/Users/lcoelh00/Downloads/Pesquisa.Faculdade/Pesquisa.Faculdade.DAO/bin/Debug/net6.0/Pesquisa.Faculdade.Model.pdb
+/Users/lcoelh00/Downloads/Pesquisa.Faculdade/Pesquisa.Faculdade.DAO/bin/Debug/net6.0/Pesquisa.Faculdade.Conexao.pdb
+/Users/lcoelh00/Downloads/Pesquisa.Faculdade/Pesquisa.Faculdade.DAO/obj/Debug/net6.0/Pesquisa.Faculdade.DAO.csproj.AssemblyReference.cache
+/Users/lcoelh00/Downloads/Pesquisa.Faculdade/Pesquisa.Faculdade.DAO/obj/Debug/net6.0/Pesquisa.Faculdade.DAO.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lcoelh00/Downloads/Pesquisa.Faculdade/Pesquisa.Faculdade.DAO/obj/Debug/net6.0/Pesquisa.Faculdade.DAO.AssemblyInfoInputs.cache
+/Users/lcoelh00/Downloads/Pesquisa.Faculdade/Pesquisa.Faculdade.DAO/obj/Debug/net6.0/Pesquisa.Faculdade.DAO.AssemblyInfo.cs
+/Users/lcoelh00/Downloads/Pesquisa.Faculdade/Pesquisa.Faculdade.DAO/obj/Debug/net6.0/Pesquisa.Faculdade.DAO.csproj.CoreCompileInputs.cache
+/Users/lcoelh00/Downloads/Pesquisa.Faculdade/Pesquisa.Faculdade.DAO/obj/Debug/net6.0/Pesquisa.Faculdade.DAO.csproj.CopyComplete
+/Users/lcoelh00/Downloads/Pesquisa.Faculdade/Pesquisa.Faculdade.DAO/obj/Debug/net6.0/Pesquisa.Faculdade.DAO.dll
+/Users/lcoelh00/Downloads/Pesquisa.Faculdade/Pesquisa.Faculdade.DAO/obj/Debug/net6.0/refint/Pesquisa.Faculdade.DAO.dll
+/Users/lcoelh00/Downloads/Pesquisa.Faculdade/Pesquisa.Faculdade.DAO/obj/Debug/net6.0/Pesquisa.Faculdade.DAO.pdb
+/Users/lcoelh00/Downloads/Pesquisa.Faculdade/Pesquisa.Faculdade.DAO/obj/Debug/net6.0/ref/Pesquisa.Faculdade.DAO.dll

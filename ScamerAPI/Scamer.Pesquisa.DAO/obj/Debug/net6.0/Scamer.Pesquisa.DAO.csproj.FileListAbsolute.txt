@@ -1,0 +1,17 @@
+/Users/lcoelh00/Downloads/ScamerPesquisa/ScamerAPI/Scamer.Pesquisa.DAO/obj/Debug/net6.0/Scamer.Pesquisa.DAO.csproj.AssemblyReference.cache
+/Users/lcoelh00/Downloads/ScamerPesquisa/ScamerAPI/Scamer.Pesquisa.DAO/obj/Debug/net6.0/Scamer.Pesquisa.DAO.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lcoelh00/Downloads/ScamerPesquisa/ScamerAPI/Scamer.Pesquisa.DAO/obj/Debug/net6.0/Scamer.Pesquisa.DAO.AssemblyInfoInputs.cache
+/Users/lcoelh00/Downloads/ScamerPesquisa/ScamerAPI/Scamer.Pesquisa.DAO/obj/Debug/net6.0/Scamer.Pesquisa.DAO.AssemblyInfo.cs
+/Users/lcoelh00/Downloads/ScamerPesquisa/ScamerAPI/Scamer.Pesquisa.DAO/obj/Debug/net6.0/Scamer.Pesquisa.DAO.csproj.CoreCompileInputs.cache
+/Users/lcoelh00/Downloads/ScamerPesquisa/ScamerAPI/Scamer.Pesquisa.DAO/bin/Debug/net6.0/Scamer.Pesquisa.DAO.deps.json
+/Users/lcoelh00/Downloads/ScamerPesquisa/ScamerAPI/Scamer.Pesquisa.DAO/bin/Debug/net6.0/Scamer.Pesquisa.DAO.dll
+/Users/lcoelh00/Downloads/ScamerPesquisa/ScamerAPI/Scamer.Pesquisa.DAO/bin/Debug/net6.0/Scamer.Pesquisa.DAO.pdb
+/Users/lcoelh00/Downloads/ScamerPesquisa/ScamerAPI/Scamer.Pesquisa.DAO/bin/Debug/net6.0/Scamer.Pesquisa.Conexao.dll
+/Users/lcoelh00/Downloads/ScamerPesquisa/ScamerAPI/Scamer.Pesquisa.DAO/bin/Debug/net6.0/Scamer.Pesquisa.Model.dll
+/Users/lcoelh00/Downloads/ScamerPesquisa/ScamerAPI/Scamer.Pesquisa.DAO/bin/Debug/net6.0/Scamer.Pesquisa.Model.pdb
+/Users/lcoelh00/Downloads/ScamerPesquisa/ScamerAPI/Scamer.Pesquisa.DAO/bin/Debug/net6.0/Scamer.Pesquisa.Conexao.pdb
+/Users/lcoelh00/Downloads/ScamerPesquisa/ScamerAPI/Scamer.Pesquisa.DAO/obj/Debug/net6.0/Scamer.Pesquisa.DAO.csproj.CopyComplete
+/Users/lcoelh00/Downloads/ScamerPesquisa/ScamerAPI/Scamer.Pesquisa.DAO/obj/Debug/net6.0/Scamer.Pesquisa.DAO.dll
+/Users/lcoelh00/Downloads/ScamerPesquisa/ScamerAPI/Scamer.Pesquisa.DAO/obj/Debug/net6.0/refint/Scamer.Pesquisa.DAO.dll
+/Users/lcoelh00/Downloads/ScamerPesquisa/ScamerAPI/Scamer.Pesquisa.DAO/obj/Debug/net6.0/Scamer.Pesquisa.DAO.pdb
+/Users/lcoelh00/Downloads/ScamerPesquisa/ScamerAPI/Scamer.Pesquisa.DAO/obj/Debug/net6.0/ref/Scamer.Pesquisa.DAO.dll

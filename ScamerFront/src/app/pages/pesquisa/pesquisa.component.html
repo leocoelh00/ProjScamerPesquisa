@@ -1,0 +1,19 @@
+<app-cabecalho [ds_Button]="ds_Button" [Rota]="nm_Rota"></app-cabecalho>
+
+
+<main *ngIf="b_Exibir_Pergunta_Principal != false" class="posicaoDiv">
+    <div class="divPergunta">
+        <p class="Pergunta">{{ds_Pergunta}}</p>
+    </div>
+</main>
+
+<app-escala  [vl_Satisfacao]="vl_Satisfacao"
+(On_Select)="Selecionar_Nota_Principal($event)"></app-escala>
+
+<div style="text-align: center; padding-top: 2rem; padding-bottom: 1rem" *ngIf="vl_Satisfacao != null">
+    <button [disabled]="!habilitarBotaoConfirmar()" (click)="Confirmar()" class="buttonConfirmar">Responder</button>
+</div>
+
+
+
+<loading *ngIf="b_Loading"></loading>

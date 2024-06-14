@@ -1,0 +1,241 @@
+
+.div {
+
+    &-SatisfDesignVerm {
+        width: 87%;
+        height: 59px;
+        background-color: #ED1651;
+        margin-right: 0.3rem;
+        border-radius: 5px;
+        box-shadow: 0px 1px 4px rgba(0, 0, 0, 0.25);
+        cursor: pointer;
+
+        &:active {
+            transform: scale(0.85);
+            transition-duration: (280ms);
+        }
+    }
+
+    &-SatisfDesignGrey{
+        background-color: #77777765;
+        width: 87%;
+        height: 59px;
+        margin-right: 0.3rem;
+        border-radius: 5px;
+        box-shadow: 0px 1px 4px rgba(0, 0, 0, 0.25);
+        cursor: pointer;
+
+        &:active {
+            transform: scale(0.85);
+            transition-duration: (280ms);
+        }
+    }
+
+    &-SatisfDesignAm {
+        width: 87%;
+        height: 59px;
+        background-color: #FFCB08;
+        margin-right: 0.3rem;
+        border-radius: 5px;
+        box-shadow: 0px 1px 4px rgba(0, 0, 0, 0.25);
+        cursor: pointer;
+
+        &:active {
+            transform: scale(0.85);
+            transition-duration: (280ms);
+        }
+    }
+
+    &-SatisfDesignVd {
+        width: 87%;
+        height: 59px;
+        background-color: #00995D;
+        margin-right: 0.3rem;
+        border-radius: 5px;
+        box-shadow: 0px 1px 4px rgba(0, 0, 0, 0.25);
+        cursor: pointer;
+
+        &:active {
+            transform: scale(0.85);
+            transition-duration: (280ms);
+        }
+    }
+
+
+    &-Satisfacao {
+        display: grid;
+        justify-content: center;
+        grid-template-columns: 1fr 1fr 1fr;
+        grid-row-gap: 9px;
+        padding-left: 10px;
+    }
+}
+
+.label {
+    &-satisf {
+        color: var(--branco);
+        font-size: 2.5rem;
+        cursor: pointer;
+    }
+}
+
+@media screen and (min-width:768px) and (min-height: 400px) {
+
+
+    .div {
+        &-SatisfDesignVerm {
+            width: 48px;
+            height: 48px;
+            background-color: #ED1651;
+            margin-right: 0.3rem;
+            border-radius: 5px;
+            box-shadow: 0px 1px 4px rgba(0, 0, 0, 0.25);
+            cursor: pointer;
+
+            &:active {
+                transform: scale(0.85);
+                transition-duration: (280ms);
+            }
+        }
+
+        &-SatisfDesignGrey{
+            background-color: #77777765;
+            width: 48px;
+            height: 48px;
+            margin-right: 0.3rem;
+            border-radius: 5px;
+            box-shadow: 0px 1px 4px rgba(0, 0, 0, 0.25);
+            cursor: pointer;
+
+            &:active {
+                transform: scale(0.85);
+                transition-duration: (280ms);
+            }
+        }
+
+        &-SatisfDesignAm {
+            width: 48px;
+            height: 48px;
+            background-color: #FFCB08;
+            margin-right: 0.3rem;
+            border-radius: 5px;
+            box-shadow: 0px 1px 4px rgba(0, 0, 0, 0.25);
+            cursor: pointer;
+
+            &:active {
+                transform: scale(0.85);
+                transition-duration: (280ms);
+            }
+        }
+
+        &-SatisfDesignVd {
+            width: 48px;
+            height: 48px;
+            background-color: #00995D;
+            margin-right: 0.3rem;
+            border-radius: 5px;
+            box-shadow: 0px 1px 4px rgba(0, 0, 0, 0.25);
+            cursor: pointer;
+
+            &:active {
+                transform: scale(0.85);
+                transition-duration: (280ms);
+            }
+        }
+
+        &-Satisfacao {
+            display: flex;
+            text-align: center;
+            margin: auto;
+        }
+    }
+
+    .label {
+        &-satisf {
+            color: var(--branco);
+            font-size: 2rem;
+            cursor: pointer;
+        }
+    }
+}
+
+@media screen and (min-width:1000px) and (min-height: 400px) {
+
+    .posicionamento{
+        display: grid;
+        grid-template-rows: 1fr;
+        grid-row-gap: 0.5rem;
+        text-align-last: center;
+    }
+
+    .div {
+
+        &-SatisfDesignVerm {
+            width: 66px;
+            height: 60px;
+            background-color: #ED1651;
+            margin-right: 0.3rem;
+            border-radius: 5px;
+            box-shadow: 0px 1px 4px rgba(0, 0, 0, 0.25);
+            cursor: pointer;
+
+            &:active {
+                transform: scale(0.85);
+                transition-duration: (280ms);
+            }
+        }
+
+        &-SatisfDesignGrey{
+            background-color: #77777765;
+            width: 66px;
+            height: 60px;
+            margin-right: 0.3rem;
+            border-radius: 5px;
+            box-shadow: 0px 1px 4px rgba(0, 0, 0, 0.25);
+            cursor: pointer;
+
+            &:active {
+                transform: scale(0.85);
+                transition-duration: (280ms);
+            }
+        }
+
+        &-SatisfDesignAm {
+            width: 66px;
+            height: 60px;
+            background-color: #FFCB08;
+            margin-right: 0.3rem;
+            border-radius: 5px;
+            box-shadow: 0px 1px 4px rgba(0, 0, 0, 0.25);
+            cursor: pointer;
+
+            &:active {
+                transform: scale(0.85);
+                transition-duration: (280ms);
+            }
+        }
+
+        &-SatisfDesignVd {
+            width: 66px;
+            height: 60px;
+            background-color: #00995D;
+            margin-right: 0.3rem;
+            border-radius: 5px;
+            box-shadow: 0px 1px 4px rgba(0, 0, 0, 0.25);
+            cursor: pointer;
+
+            &:active {
+                transform: scale(0.85);
+                transition-duration: (280ms);
+            }
+        }
+    }
+
+    .label {
+        &-satisf {
+            color: var(--branco);
+            font-size: 2.5rem;
+            cursor: pointer;
+        }
+    }
+}

@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="MySql.Data" Version="8.0.22" />
+    <PackageReference Include="Oracle.ManagedDataAccess.Core" Version="3.21.61" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Geral\API.Geral.Extensions\API.Geral.Extensions.csproj" />
+  </ItemGroup>
+
+</Project>

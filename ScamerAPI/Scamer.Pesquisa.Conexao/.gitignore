@@ -1,0 +1,17 @@
+# Ignorar pastas de saída de compilação
+bin/
+obj/
+
+# Ignorar arquivos de configuração do Visual Studio
+.vscode/
+.vs/
+*.suo
+*.user
+*.sln.docstates
+
+# Ignorar arquivos temporários
+[Tt]emp/
+[Vv]iews/
+[Oo]bj/
+[Ii]ntermediateOutput/
+[Oo]utput/

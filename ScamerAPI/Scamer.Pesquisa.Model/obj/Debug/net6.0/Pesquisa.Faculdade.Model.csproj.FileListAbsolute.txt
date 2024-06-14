@@ -1,0 +1,12 @@
+/Users/lcoelh00/Downloads/Pesquisa.Faculdade/Pesquisa.Faculdade.Model/obj/Debug/net6.0/Pesquisa.Faculdade.Model.csproj.AssemblyReference.cache
+/Users/lcoelh00/Downloads/Pesquisa.Faculdade/Pesquisa.Faculdade.Model/obj/Debug/net6.0/Pesquisa.Faculdade.Model.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lcoelh00/Downloads/Pesquisa.Faculdade/Pesquisa.Faculdade.Model/obj/Debug/net6.0/Pesquisa.Faculdade.Model.AssemblyInfoInputs.cache
+/Users/lcoelh00/Downloads/Pesquisa.Faculdade/Pesquisa.Faculdade.Model/obj/Debug/net6.0/Pesquisa.Faculdade.Model.AssemblyInfo.cs
+/Users/lcoelh00/Downloads/Pesquisa.Faculdade/Pesquisa.Faculdade.Model/obj/Debug/net6.0/Pesquisa.Faculdade.Model.csproj.CoreCompileInputs.cache
+/Users/lcoelh00/Downloads/Pesquisa.Faculdade/Pesquisa.Faculdade.Model/bin/Debug/net6.0/Pesquisa.Faculdade.Model.deps.json
+/Users/lcoelh00/Downloads/Pesquisa.Faculdade/Pesquisa.Faculdade.Model/bin/Debug/net6.0/Pesquisa.Faculdade.Model.dll
+/Users/lcoelh00/Downloads/Pesquisa.Faculdade/Pesquisa.Faculdade.Model/bin/Debug/net6.0/Pesquisa.Faculdade.Model.pdb
+/Users/lcoelh00/Downloads/Pesquisa.Faculdade/Pesquisa.Faculdade.Model/obj/Debug/net6.0/Pesquisa.Faculdade.Model.dll
+/Users/lcoelh00/Downloads/Pesquisa.Faculdade/Pesquisa.Faculdade.Model/obj/Debug/net6.0/refint/Pesquisa.Faculdade.Model.dll
+/Users/lcoelh00/Downloads/Pesquisa.Faculdade/Pesquisa.Faculdade.Model/obj/Debug/net6.0/Pesquisa.Faculdade.Model.pdb
+/Users/lcoelh00/Downloads/Pesquisa.Faculdade/Pesquisa.Faculdade.Model/obj/Debug/net6.0/ref/Pesquisa.Faculdade.Model.dll
